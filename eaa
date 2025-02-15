@@ -1,0 +1,16 @@
+{
+    "Agent": {
+        "MommyW6": {
+            "Xeno": "d75af309-8d73-11ef-a1fb-806e6f6e6963",
+            "Sonar": "A592839A2F7E97C11B639BF8B09A14"
+        },
+        "SerialKey": "158e6f01-fdea-4088-bdff-ab96ba78e045"
+    },
+    "User": {
+        "Player": {
+            "Xeno": "xxxxxx",
+            "Delta": "xxxxxx"
+        },
+        "SerialKey": "product-key"
+    }
+}
