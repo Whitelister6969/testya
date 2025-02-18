@@ -2,15 +2,30 @@
     "Agent": {
         "MommyW6": {
             "Xeno": "d75af309-8d73-11ef-a1fb-806e6f6e6963",
-            "Sonar": "A592839A2F7E97C11B639BF8B09A14"
+            "Sonar": "A592839A2F7E97C11B639BF8B09A14",
+            "Delta": "8cce6018f6ddd782b3e391f99f4f651c3e4598028b5af1987ffed07ff43fa09d"
         },
         "SerialKey": "158e6f01-fdea-4088-bdff-ab96ba78e045"
     },
-    "User": {
+    "User1": {
         "Player": {
             "Xeno": "xxxxxx",
             "Delta": "xxxxxx"
         },
-        "SerialKey": "product-key"
+        "SerialKey": "product-key1"
+    },
+    "User2": {
+        "Player": {
+            "Xeno": "xxxxxx",
+            "Delta": "xxxxxx"
+        },
+        "SerialKey": "product-key2"
+    },
+    "User3": {
+        "Player": {
+            "Xeno": "xxxxxx",
+            "Delta": "xxxxxx"
+        },
+        "SerialKey": "product-key3"
     }
 }
